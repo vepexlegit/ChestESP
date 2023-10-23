@@ -1,8 +1,8 @@
 [
 {
-  "modid": "chestesp",
-  "name": "ChestESP",
-  "description": "Chest ESP | 1.8.9",
+  "modid": "chestespdebug",
+  "name": "ChestESPDebug",
+  "description": "ChestESP Debug | 1.8.9",
   "version": "1.0",
   "mcversion": "1.8.9",
   "url": "https://github.com/vepexlegit",
